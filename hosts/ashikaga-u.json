@@ -1,0 +1,12 @@
+{
+  "$schema": "_schema.json",
+  "name": "足利大学",
+  "source": "https://www.ashitech.ac.jp/",
+  "tags": [
+    "Ashikaga",
+    "university",
+    "AUG"
+  ],
+  "manaba-url": "https://aug.manaba.jp/ct/login",
+  "bad-status": []
+}
